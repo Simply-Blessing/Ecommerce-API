@@ -86,6 +86,12 @@ Install dependencies:
 pip install pytest pytest-flask
 ```
 
+Install packages:
+
+[requirements](./requirements.txt)
+
+Run test:
+
 [Run test](./test_ecommerce.py):
 
 ```bash
